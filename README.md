@@ -6,4 +6,6 @@ Controllers:
     W               Up
   A S D       Left Down Right
 
+  Camera Switch: Press TAB key.
+
 *Drive the cars to the finish line to win.
